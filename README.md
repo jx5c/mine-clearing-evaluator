@@ -2,7 +2,7 @@
 A coding exercise. The specification for the exercise is in the repo. 
 
 ## Quick Start:
-How to run the evaluator?
+### How to run the evaluator?
 
 After clone the repo, start a Windows command line or a terminal, then there are two ways to run the evaluator:
 
