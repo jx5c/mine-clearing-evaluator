@@ -5,7 +5,7 @@ A coding exercise. The specification for the exercise is in the repo.
 Start a Windows command line or terminal, then there are two ways to run the evaluator:
 
 * Approach one: In the top level repo, run
-`java -jar .\Evaluator.jar field.txt script.txt`
+`java -jar Evaluator.jar field.txt script.txt`
 
 * Approach two: In the \src folder, run
 `java Evaluator field.txt script.txt`
