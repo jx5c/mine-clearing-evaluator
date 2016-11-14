@@ -1,7 +1,9 @@
 # Starfleet mine clearing exercise evaluator
 A coding exercise. The specification for the exercise is in the repo. 
 
-## Run the evaluator:
+## Quick Start:
+How to run the evaluator?
+
 After clone the repo, start a Windows command line or a terminal, then there are two ways to run the evaluator:
 
 * Approach one: In the top level repo, run
