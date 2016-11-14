@@ -1,10 +1,10 @@
 # Starfleet mine clearing exercise evaluator
-A coding exercise
+A coding exercise. The specification for the exercise is in the repo. 
 
 ## Run the evaluator:
 Start a Windows command line or terminal, then there are two ways to run the evaluator:
 
-* Approach one: In the top level folder, run
+* Approach one: In the top level repo, run
 `java -jar .\Evaluator.jar field.txt script.txt`
 
 * Approach two: In the \src folder, run
